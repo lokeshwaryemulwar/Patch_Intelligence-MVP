@@ -75,6 +75,10 @@ The system includes an interactive dashboard showcasing:
 ![Screenshot 2025-02-12 095806](https://github.com/user-attachments/assets/433c65a0-1e6b-4b05-8c4f-d3978e5e63da)
 
 
+https://github.com/user-attachments/assets/037ad1f6-25a0-4eb9-af64-a78c663fb834
+
+
+
 ## Technologies Used -
 - **Backend**: Python, Flask
 - **Database**: ArangoDB/Neptune (Graph Database)
