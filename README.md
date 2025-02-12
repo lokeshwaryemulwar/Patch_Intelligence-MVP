@@ -32,7 +32,7 @@ To run the project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Description
+## Description - 
 Patch Intelligence helps IT teams by:
 - **Providing confidence scores** for patches based on crash likelihood, performance issues, and other metadata.
 - **Identifying critical vulnerabilities** and linking them with available patches.
@@ -53,20 +53,20 @@ Supported libraries:
 
 The graph database allows users to explore relationships between vulnerabilities and available patches dynamically.
 
-## Graph Visualization
+## Graph Visualization - 
 A directed knowledge graph is implemented to visualize:
 - The relationship between CVEs, CPEs, and patches.
 - The impact of vulnerabilities on different software versions.
 - The metadata associated with patches, including risk assessment and supersedence information.
 
-## Patch Overview Data
+## Patch Overview Data - 
 The system includes an interactive dashboard showcasing:
 - **Security Issues**: CVE/Non-CVE vulnerabilities and their impacted versions.
 - **Patch Status**: Whether a vulnerability has an available fix.
 - **Known Issues**: Performance concerns, reboot requirements, and crash likelihood.
 - **Lifecycle Information**: End-of-life data for patches and software versions.
 
-## Project Snaps
+## Project Snaps - 
 ![pg1](https://github.com/user-attachments/assets/7389da55-6856-4090-8b84-087d682e1437)
 ![pg2](https://github.com/user-attachments/assets/9ccf070e-5c74-4401-b3e5-ac8b9e4a3fbf)
 ![pg3](https://github.com/user-attachments/assets/a97bcf6f-84bd-4755-88c9-2e03c724f925)
@@ -75,22 +75,20 @@ The system includes an interactive dashboard showcasing:
 ![Screenshot 2025-02-12 095806](https://github.com/user-attachments/assets/433c65a0-1e6b-4b05-8c4f-d3978e5e63da)
 
 
-## Technologies Used
+## Technologies Used -
 - **Backend**: Python, Flask
 - **Database**: ArangoDB/Neptune (Graph Database)
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Processing**: BeautifulSoup, Pandas
 - **Visualization**: D3.js for graph representation
 
-## Contributors
-- [Samuel Kiruba](https://github.com/lokeshwar)
-- [Jonnalagadda Sri Harsha](https://github.com/HarshaHharros)
+## Contributors - 
+- [Samuel Kiruba](https://github.com/lokeshwar) +91 7200754446 .
+- [Jonnalagadda Sri Harsha](https://github.com/HarshaHharros) +91 8122182899.
 - [Prithvi v](https://github.com/lokeshwar)
 - [Lokeshwar Yemulwar](https://github.com/lokeshwar)
 - [Dev S](https://github.com/lokeshwar)
 - [Trinisha](https://github.com/lokeshwar)
 - [Dhanush](https://github.com/lokeshwar)
 - [Jothiarunachalam](https://github.com/lokeshwar)
-
-
 For more details, please refer to the documentation or contact the contributors.
