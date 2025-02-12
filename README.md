@@ -67,6 +67,12 @@ The system includes an interactive dashboard showcasing:
 - **Lifecycle Information**: End-of-life data for patches and software versions.
 
 ## Project Snaps
+![pg1](https://github.com/user-attachments/assets/7389da55-6856-4090-8b84-087d682e1437)
+![pg2](https://github.com/user-attachments/assets/9ccf070e-5c74-4401-b3e5-ac8b9e4a3fbf)
+![pg3](https://github.com/user-attachments/assets/a97bcf6f-84bd-4755-88c9-2e03c724f925)
+![Screenshot 2025-02-12 095642](https://github.com/user-attachments/assets/3f73f3fd-09e9-48ec-92b7-737a5d60fa2c)
+![Screenshot 2025-02-12 100148](https://github.com/user-attachments/assets/bb6d8d28-a7dd-40e9-b66f-906906b0399c)
+![Screenshot 2025-02-12 095806](https://github.com/user-attachments/assets/433c65a0-1e6b-4b05-8c4f-d3978e5e63da)
 
 
 ## Technologies Used
