@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/037ad1f6-25a0-4eb9-af64-a78c663fb834
 
 ## Technologies Used -
 - **Backend**: Python, Flask
-- **Database**: SQLlite (Graph Database)
+- **Database**: SQLite (Graph Database)
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Processing**: BeautifulSoup, Pandas
 - **Visualization**: D3.js for graph representation
